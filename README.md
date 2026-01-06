@@ -36,3 +36,21 @@ Purpose:To practice conditional statements, loops, and menu-driven programming.
 Programming Language: (mention here – e.g., Java)
 
 Platform: VS code 
+
+3.Library Management System (Java)
+
+A console-based Library Management System developed in Java to manage basic library operations such as adding books, viewing books, issuing books, and returning books. This project is designed for learning Object-Oriented Programming (OOP) concepts and practicing logical problem-solving.
+
+Features:
+
+Add and view books
+
+Issue and return books
+
+Menu-driven console interface
+
+Tech Stack:
+
+Java
+
+OOP Concepts
